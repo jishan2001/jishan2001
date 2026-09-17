@@ -26,4 +26,4 @@ Python • n8n • Docker • Git • GitHub • RAG • LLMs • Qdrant
 
 ## 📫 Let's Connect
 
-[LinkedIn](YOUR_LINKEDIN_LINK)
+https://www.linkedin.com/in/jishan-dhabak-78771125b/
